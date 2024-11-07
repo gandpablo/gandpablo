@@ -17,7 +17,7 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
 - **Languages:** Python and SQL
 - **Data Science & AI:** Machine Learning (TensorFlow, Scikit-learn, XGBoost), neural networks, data analysis
 - **Data Tools:** Web scraping, database management, data visualization (Streamlit)
-- **Collaboration & Version Control:** Git, GitHub, Docker
+- **Collaborative:** Git and GitHub
 - **Currently Learning:** C++
 
 <p align="left">
