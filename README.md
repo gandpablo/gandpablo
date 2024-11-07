@@ -39,9 +39,16 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
   <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
   
-  <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-FF2B00?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  
+  <!-- Keras -->
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
+  
+  <!-- Redis -->
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
 </p>
+
 
 
 ---
