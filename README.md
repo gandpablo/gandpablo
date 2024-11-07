@@ -26,6 +26,9 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
   
   <!-- TensorFlow -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+
+  <!-- XGBoost -->
+  <img src="https://img.shields.io/badge/XGBoost-3A6E4F?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"/>
   
   <!-- SciPy -->
   <img src="https://img.shields.io/badge/SciPy-8C4DFF?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
