@@ -2,23 +2,29 @@
   <img src="Images/Banner.png" alt="Banner">
 </p>
 
+# Hello! 👋 I'm Pablo Gandía
+
+### Data Science Student | AI Enthusiast
+
+I'm a second-year Data Science student at the Polytechnic University of Valencia (UPV) with a strong foundation in Python, SQL, machine learning, and neural networks. I’m passionate about analyzing large-scale data and leveraging data science to solve real-world problems. Currently, I am involved in both individual and group projects focused on artificial intelligence, machine learning, and algorithmic trading, including applications for stock market analysis.
+
+---
+
+## 💻 Skills & Technologies
+
+- **Languages:** Python and SQL
+- **Data Science & AI:** Machine Learning (TensorFlow, Scikit-learn, XGBoost), neural networks, data analysis
+- **Data Tools:** Web scraping, database management, data visualization (Streamlit)
+- **Collaboration & Version Control:** Git, GitHub, Docker
+- **Currently Learning:** C++
 
 
+---
 
 
-## Hi there 👋
+## 📫 Let's Connect!
 
-<!--
-**gandpablo/gandpablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Email:** gandpablo04@gmail.com
+- **LinkedIn:** [Pablo Gandía](https://www.linkedin.com/in/pablogandia)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
