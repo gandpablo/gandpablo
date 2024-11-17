@@ -42,13 +42,13 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
   <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
 
-    <!-- MongoDB -->
+  <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   
   <!-- Heroku -->
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=
-  
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku"/>
 </p>
+
 
 
 
