@@ -45,8 +45,6 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   
-  <!-- Heroku -->
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku"/>
 </p>
 
 
