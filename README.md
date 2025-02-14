@@ -14,7 +14,7 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
 
 ## 💻 Skills & Technologies
 
-- **Languages:** Python and SQL
+- **Languages:** Python, SQL and R
 - **Data Science & AI:** Machine Learning (TensorFlow, Scikit-learn, XGBoost), neural networks, data analysis
 - **Data Tools:** Web scraping, database management, data visualization (Streamlit)
 - **Collaborative:** Git and GitHub
@@ -23,7 +23,10 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
 <p align="left">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  
+
+  <!-- R -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
+
   <!-- TensorFlow -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
