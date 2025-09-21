@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Banner.png" alt="Banner">
+  <img src="github.png" alt="Banner">
 </p>
 
 # Hello! 👋 I'm Pablo Gandía
