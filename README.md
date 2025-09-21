@@ -33,7 +33,10 @@ In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/
 
   <!-- XGBoost -->
   <img src="https://img.shields.io/badge/XGBoost-3A6E4F?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  
+
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+
   <!-- SciPy -->
   <img src="https://img.shields.io/badge/SciPy-8C4DFF?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
   
@@ -48,10 +51,10 @@ In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/
 
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  
+
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
 </p>
-
-
 
 
 ---
@@ -59,10 +62,11 @@ In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-pablo.gandia.minana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.gandia.minana@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Gandía-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogandia)  
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-gandpablo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/gandpablo)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-gandpablo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gandpablo)
+[![Email](https://img.shields.io/badge/Email-pablo.gandia.minana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40)](mailto:pablo.gandia.minana@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Gandía-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/pablogandia)  
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-gandpablo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&logoWidth=40)](https://huggingface.co/gandpablo)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-gandpablo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&logoWidth=40)](https://www.kaggle.com/gandpablo)
+
 
 
 
