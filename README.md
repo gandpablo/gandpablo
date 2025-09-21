@@ -60,6 +60,12 @@ In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/
 
 ---
 
+## GitHub Stats
+
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandpablo&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandpablo&layout=compact&theme=tokyonight)
+
+---
 
 ## 📫 Let's Connect!
 
@@ -67,8 +73,6 @@ In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Gandía-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/pablogandia)  
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-gandpablo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&logoWidth=40)](https://huggingface.co/gandpablo)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-gandpablo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&logoWidth=40)](https://www.kaggle.com/gandpablo)
-
-
 
 
 
