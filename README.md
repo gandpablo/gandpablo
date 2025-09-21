@@ -11,6 +11,8 @@ I'm a third-year Data Science student at the Polytechnic University of Valencia 
 I truly enjoy developing projects related to programming and data science, both personal projects and collaborative work within the teams I am part of.
 
 In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/company/sigma-data-club-upv/posts/?feedView=all) and the [**Investment Club**](https://www.linkedin.com/company/upv-investment-club/posts/?feedView=all) at UPV
+
+<br>
 ---
 
 ## 💻 Skills & Technologies
