@@ -6,19 +6,19 @@
 
 ### Data Science Student | AI Enthusiast
 
-I'm a second-year Data Science student at the Polytechnic University of Valencia (UPV) with a strong foundation in Python, SQL, machine learning, and neural networks. I’m passionate about analyzing large-scale data and leveraging data science to solve real-world problems. Currently, I am involved in both individual and group projects focused on artificial intelligence, machine learning, and algorithmic trading, including applications for stock market analysis.
+I'm a third-year Data Science student at the Polytechnic University of Valencia (UPV) with a strong foundation in Python, SQL, machine learning, neural networks and API's, passionate about the mathematics behind the AI and using data to solve real-world problems.
+I truly enjoy developing projects related to programming and data science, both personal projects and collaborative work within the teams I am part of.
 
-In addition, I'm a member of the **Sigma Data Club** and the **Investment Club** at UPV
-
+In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/company/sigma-data-club-upv/posts/?feedView=all) and the [**Investment Club**](https://www.linkedin.com/company/upv-investment-club/posts/?feedView=all) at UPV
 ---
 
 ## 💻 Skills & Technologies
 
-- **Languages:** Python, SQL and R
-- **Data Science & AI:** Machine Learning (TensorFlow, Scikit-learn, XGBoost), neural networks, data analysis
-- **Data Tools:** Web scraping, database management, data visualization (Streamlit)
+- **Languages:** Python, SQL, R, Matlab
+- **Data Science & AI:** Machine Learning (Scikit-learn, XGBoost), neural networks (Tensorflow & Pytorch), data analysis
+- **Data Tools:** Web scraping, database management, data visualization, API building
 - **Collaborative:** Git and GitHub
-- **Currently Learning:** C++
+- **Currently Learning:** C++ and AWS
 
 <p align="left">
   <!-- Python -->
@@ -58,7 +58,10 @@ In addition, I'm a member of the **Sigma Data Club** and the **Investment Club**
 
 ## 📫 Let's Connect!
 
-- **Email:** gandpablo04@gmail.com
-- **LinkedIn:** [Pablo Gandía](https://www.linkedin.com/in/pablogandia)
+[![Email](https://img.shields.io/badge/Email-pablo.gandia.minana%40gmail.com-red?logo=gmail)](mailto:pablo.gandia.minana@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Gandía-blue?logo=linkedin)](https://www.linkedin.com/in/pablogandia)  
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Pablo%20Gandía-yellow?logo=huggingface)](https://huggingface.co/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Pablo%20Gandía-20beff?logo=kaggle)](https://www.kaggle.com/)
+
 
 
