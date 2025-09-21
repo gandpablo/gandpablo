@@ -12,7 +12,6 @@ I truly enjoy developing projects related to programming and data science, both 
 
 In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/company/sigma-data-club-upv/posts/?feedView=all) and the [**Investment Club**](https://www.linkedin.com/company/upv-investment-club/posts/?feedView=all) at UPV
 
-<br>
 ---
 
 ## 💻 Skills & Technologies
