@@ -7,6 +7,7 @@
 ### Data Science Student | AI Enthusiast
 
 I'm a third-year Data Science student at the Polytechnic University of Valencia (UPV) with a strong foundation in Python, SQL, machine learning, neural networks and API's, passionate about the mathematics behind the AI and using data to solve real-world problems.
+
 I truly enjoy developing projects related to programming and data science, both personal projects and collaborative work within the teams I am part of.
 
 In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/company/sigma-data-club-upv/posts/?feedView=all) and the [**Investment Club**](https://www.linkedin.com/company/upv-investment-club/posts/?feedView=all) at UPV
@@ -58,10 +59,11 @@ In addition, I'm a member of the [**Sigma Data Club**](https://www.linkedin.com/
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-pablo.gandia.minana%40gmail.com-red?logo=gmail)](mailto:pablo.gandia.minana@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Gandía-blue?logo=linkedin)](https://www.linkedin.com/in/pablogandia)  
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Pablo%20Gandía-yellow?logo=huggingface)](https://huggingface.co/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Pablo%20Gandía-20beff?logo=kaggle)](https://www.kaggle.com/)
+[![Email](https://img.shields.io/badge/Email-pablo.gandia.minana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.gandia.minana@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Gandía-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogandia)  
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-gandpablo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/gandpablo)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-gandpablo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gandpablo)
+
 
 
 
